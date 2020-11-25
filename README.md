@@ -1,1 +1,1 @@
-# 14-10
+# Some small exercises
